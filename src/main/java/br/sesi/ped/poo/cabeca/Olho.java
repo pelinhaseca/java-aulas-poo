@@ -1,7 +1,7 @@
 package br.sesi.ped.poo.cabeca;
 
 public class Olho {
-    String coriris;
+    public String corIris;
     float diamatroOlhos;
     boolean cego;
 }

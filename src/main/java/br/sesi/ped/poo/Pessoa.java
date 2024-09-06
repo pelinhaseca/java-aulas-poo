@@ -5,7 +5,7 @@ import br.sesi.ped.poo.inferior.MembrosInferiores;
 import br.sesi.ped.poo.tronco.Tronco;
 
 public class Pessoa {
-    Cabeca cabeca;
-    Tronco tronco;
-    MembrosInferiores inferior;
+    public Cabeca cabeca;
+    public Tronco tronco;
+    public MembrosInferiores inferiores;
 }
