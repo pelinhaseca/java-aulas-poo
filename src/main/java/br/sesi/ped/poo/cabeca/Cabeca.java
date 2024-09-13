@@ -1,13 +1,15 @@
 package br.sesi.ped.poo.cabeca;
 
 public class Cabeca {
-    public Olho olho;
+    public Olho olhoEsquerdo;
+    public Olho olhoDireito;
     public Orelha aparelhoauditivo;
     public Nariz nariz;
     public Boca laginha;
 
     public Cabeca() {
-        this.olho = new Olho();
+        this.olhoEsquerdo = new Olho();
+        this.olhoDireito = new Olho();
         this.aparelhoauditivo = new Orelha();
         this.nariz = new Nariz();
         this.laginha = new Boca();
