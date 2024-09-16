@@ -1,4 +1,4 @@
-package br.sesi.ped;
+package br.sesi.file;
 
 import java.io.IOException;
 
